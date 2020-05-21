@@ -3,11 +3,7 @@
 **声明：使用请遵守网络安全法**
 
 # 使用方法
-1. 
-Usage: python3 OfficeAnywhere-cpy.py -h 10.10.10.10 -v 11
-Usage: python3 OfficeAnywhere-cpy.py -h 10.10.10.10 -v 2017
-Usage: python3 OfficeAnywhere-cpy.py -r ip.txt -v 11
-Usage: python3 OfficeAnywhere-cpy.py -r ip.txt -v 2017
+1. Usage: python3 OfficeAnywhere-cpy.py -h 10.10.10.10 -v 11
 2. 运行并获取到可用的SESSIONID
 3. 替换浏览器Cookie中的SESSIONID即可实现登录为admin
 
